@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* utilities style */
+.btn-color {
+    background-color: #27ae60;
+}
+
+.text-green {
+    color: #27ae60;
+}
+
+.header-color {
+    color: #22577a;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.top-header {
+    background-color: #22577A;
+}
+
+.socal-info {
+    background-color: #27ae60;
+}
+
+/* .main-header {
+    background-image:url('/images/banner.jpg');
+} */
+
+/* showcase style */
+.showcase{
+    height: 671px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url('/images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -5;
+    position: relative;
+    top: -66px;
+}
+
+.showcase-content p {
+    font-size: 18px;
+}
+
