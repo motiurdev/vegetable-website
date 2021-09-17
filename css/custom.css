@@ -9,6 +9,10 @@
     color: #27ae60;
 }
 
+.bg-green {
+    background-color: #27ae60;
+}
+
 .header-color {
     color: #22577a;
 }
@@ -26,9 +30,6 @@ body{
     background-color: #27ae60;
 }
 
-/* .main-header {
-    background-image:url('/images/banner.jpg');
-} */
 
 /* showcase style */
 .showcase{
@@ -44,5 +45,10 @@ body{
 
 .showcase-content p {
     font-size: 18px;
+}
+
+/* service section style */
+.service {
+    background-color: #f1f8ff;
 }
 
