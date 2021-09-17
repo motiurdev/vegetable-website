@@ -9,8 +9,12 @@
     color: #27ae60;
 }
 
-.bg-green {
+.bg-icon {
     background-color: #27ae60;
+}
+
+.bg-green {
+    background-color: #dff2d4;
 }
 
 .header-color {
@@ -51,4 +55,9 @@ body{
 .service {
     background-color: #f1f8ff;
 }
+
+
+/* .service .card img:hover {
+    transform: scale(1.5);
+} */
 
