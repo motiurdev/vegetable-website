@@ -17,6 +17,10 @@
     background-color: #dff2d4;
 }
 
+.bg-footer{
+    background-color: #22577a;
+}
+
 .header-color {
     color: #22577a;
 }
@@ -61,3 +65,15 @@ body{
     transform: scale(1.5);
 } */
 
+/* footer style */
+.footer-top p {
+    font-size: 15px;
+}
+
+.footer-top .nav-item a:nth-child(1) {
+    font-size: 14px;
+}
+
+.bg-bottom {
+    background-color: #143449;
+}
